@@ -6,16 +6,9 @@
     "overrides": [
       {
         "predicate": {
-          "custom_model_data": 2021
-        },
-        "model": "item/demonsword"
-      }
-      {
-        "predicate": {
           "custom_model_data": 20233
         },
         "model": "item/aressword"
       }
     ]
   }
-
