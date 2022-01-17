@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/carrot"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 3602
+        },
+        "model": "item/silvercarrot"
+      }
+    ]
+  }
